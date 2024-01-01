@@ -1,0 +1,15 @@
+variable "rg-name" {}
+variable "location" {}
+variable "os_type" {}
+#variable "name" {}
+variable "python_version" {}
+variable "app-location" {}
+#variable "service_plan_name" {}
+variable "app_insights_name" {}
+variable "storage_account_name" {}
+#variable "app-insights_connectionstring" {}
+#variable "primary_access_key" {}
+variable "service_plan_name" {}
+#variable "app_insights_name" {}
+#variable "storage_share_name" {}
+variable "linux_web-app-name" {}
